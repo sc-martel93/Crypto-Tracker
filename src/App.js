@@ -1,6 +1,7 @@
 import react, { useEffect, useState } from 'react'
 import axios from 'axios';
 import './App.css';
+import Coin from './components/Coin';
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
           <input className="inputField" type="text" placeholder="Search a Coin"></input>
         </form>
       </div>
+      <Coin />
     </div>
   );
 }
