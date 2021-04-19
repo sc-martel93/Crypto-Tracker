@@ -26,3 +26,15 @@
   box-shadow: 0 0 3pt 2pt white;
   color: #e2e2e2;
 }
+
+@media (max-width: 520px) {
+  .header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h1.brand {
+    padding-bottom: 16px;
+  }
+}
