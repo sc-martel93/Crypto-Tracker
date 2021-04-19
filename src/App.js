@@ -3,7 +3,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Crypto Currency Tracker</h1>
+      <div className="header">
+        <h1 className="brand">Crypto Tracker</h1>
+      </div>
     </div>
   );
 }
