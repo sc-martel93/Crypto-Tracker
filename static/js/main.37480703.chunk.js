@@ -1,2 +1,0 @@
-(this["webpackJsonpcryto-tracker"]=this["webpackJsonpcryto-tracker"]||[]).push([[0],{11:function(r,t,c){"use strict";c.r(t);var e=c(1),n=c.n(e),o=c(3),s=c.n(o),i=(c(8),c(9),c(0));var a=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("h1",{children:"Crypto Currency Tracker"})})};s.a.render(Object(i.jsx)(n.a.StrictMode,{children:Object(i.jsx)(a,{})}),document.getElementById("root"))},8:function(r,t,c){},9:function(r,t,c){}},[[11,1,2]]]);
-//# sourceMappingURL=main.37480703.chunk.js.map
