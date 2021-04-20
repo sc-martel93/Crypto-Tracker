@@ -25,7 +25,10 @@ function App() {
           <input className="inputField" type="text" placeholder="Search a Coin"></input>
         </form>
       </div>
-      <Coin />
+      <div className="coinsContainer">
+        <Coin />
+      </div>
+
     </div>
   );
 }
