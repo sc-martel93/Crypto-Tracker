@@ -1,7 +1,7 @@
-### Crypto Tracker
+## Crypto Tracker
 Crypto currency price tracking app created using React
 
-### Link to deployed app
+## Link to deployed app
 https://sc-martel93.github.io/Crypto-Tracker/
 
 ## What I Learned
